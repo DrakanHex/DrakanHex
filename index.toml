@@ -95,8 +95,8 @@ hash = "11faa2ff799f0d9468d50971d891f72d68cb4bd51f1243a3b4df01d7930a601f"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel.jar"
-hash = "7fe5380b0e70f16df77be3f5c459f11068cb70c442a9f873054cd63459dbbc2b"
+file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-53.jar"
+hash = "5363e5697a4a63599c80f6a40ae259ce6347e6a2590ed59307da5f0edded2d72"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -164,8 +164,8 @@ hash = "5db954f027234d345886ff2d3aa6a1ede860a40e8de1cab4e2466c376419c986"
 metafile = true
 
 [[files]]
-file = "mods/paucal-0.7.1+1.21.1-neoforge.jar"
-hash = "258b0a7d1c423026f01b1534d79e8ca147656b1e818191a6b133fef52bca692a"
+file = "mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
 
 [[files]]
 file = "mods/quick-access.pw.toml"
