@@ -116,8 +116,8 @@ hash = "08b127f96589596a66a34301220c8f27dada12fa0ef730dbacd1bd1bbf7dae36"
 metafile = true
 
 [[files]]
-file = "mods/gtceu-1.21.1-8.0.0-SNAPSHOT+20260803-132217-8201bf3.jar"
-hash = "5ae5e86b554ef60e72d1a52035658bd5ac33e7d1518bf787ee7846ba6c19822e"
+file = "mods/gtceu-1.21.1-8.0.0-SNAPSHOT+20261003-211641-e297c53.jar"
+hash = "1f37982b4ab7eff5144d0be92beb449bdada2e87be4d949065ef3cec6beb7647"
 
 [[files]]
 file = "mods/guideme.pw.toml"
