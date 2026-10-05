@@ -101,6 +101,11 @@ hash = "f6e4bcf78cda37abe1076e6e19d77e0ebe84b3a7993fa2408e3ba8db0b2e70db"
 metafile = true
 
 [[files]]
+file = "mods/emiaccelerator.pw.toml"
+hash = "e9fbc5439ee6f35669a9e3dc7eedd1244bd173caba3045b45d9ee6c7e5a4f2ef"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4bbb2d7ed59281c62ca8c6be25928ef0b04bfde830dccfca608c64d45b67a57f"
 metafile = true
