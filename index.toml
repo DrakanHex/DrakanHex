@@ -224,8 +224,9 @@ hash = "5db954f027234d345886ff2d3aa6a1ede860a40e8de1cab4e2466c376419c986"
 metafile = true
 
 [[files]]
-file = "mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
-hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
+file = "mods/paucal.pw.toml"
+hash = "e80bb35e9fafc6991a7287d78c4b5bc062b7cd526610209562055cbcb102c8c4"
+metafile = true
 
 [[files]]
 file = "mods/quick-access.pw.toml"

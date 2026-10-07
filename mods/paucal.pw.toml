@@ -1,0 +1,8 @@
+name = "paucal"
+filename = "paucal-0.7.1-pre-27+1.21.1-common.jar"
+side = "both"
+
+[download]
+url = "https://ci.blamejared.com/job/petrakat/job/PAUCAL/job/1.21/27/artifact/Common/build/libs/paucal-0.7.1-pre-27+1.21.1-common.jar"
+hash-format = "sha256"
+hash = "e8a49409962c501038437c1153873b9832171fa8338f48293c1e438a8a7cbb76"
