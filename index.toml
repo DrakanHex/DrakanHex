@@ -164,6 +164,11 @@ hash = "958b3d3ec3b56fa7e36495c6788de4ea95d11a8f0d4c216c31af7fac1f0271da"
 metafile = true
 
 [[files]]
+file = "mods/itemzoomer.pw.toml"
+hash = "a545c109502ddafb2176ccc140df31bed52ebf1c0e88e53dde4841948f39166a"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "61a84c62d3da196b6c148c77b0937165521aa89f8cb21fbade45097c2df69b63"
 metafile = true
