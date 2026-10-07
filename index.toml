@@ -205,6 +205,11 @@ hash = "99d2c0db4de0b9558307c2452b7c775db2c63a5a61c0487b5298fac254d2ecd7"
 metafile = true
 
 [[files]]
+file = "mods/new-visual-keybing.pw.toml"
+hash = "a45377247f6a4f5edc77b7247d37f39cbb02b52f0acfb5d577f709de51164868"
+metafile = true
+
+[[files]]
 file = "mods/omni-wheel.pw.toml"
 hash = "e54180c3fc730b6bc60f1ef3a697aa32db9b52f6c7d7fce096287b10e8eb9406"
 metafile = true
