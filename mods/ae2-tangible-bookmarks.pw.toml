@@ -1,0 +1,13 @@
+name = "AE2 Tangible Bookmarks"
+filename = "AE2-TangibleBookmarks-1.21.1-19.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gpwwX5bd/versions/DRrn7B3P/AE2-TangibleBookmarks-1.21.1-19.1.4.jar"
+hash-format = "sha512"
+hash = "820e7f6886d04c0f8fa5e9c3f095dc62c546da06fd9ef42d0c9a9095d3df0cec17491b9c06842c23e74812c5be70a7858dd617e94df31403492327bf7aa1fe65"
+
+[update]
+[update.modrinth]
+mod-id = "gpwwX5bd"
+version = "DRrn7B3P"

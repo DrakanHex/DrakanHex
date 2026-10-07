@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ae2-tangible-bookmarks.pw.toml"
+hash = "312a50e77a5b02931d7f0e5dc0f250d4607ae7aaec981550bb049f0c8bc1a7e9"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "dbd5a3feace11090f673505fc2674e04c214e6e1c34aabfc1e49127ce3e535b3"
 metafile = true
@@ -186,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "f629b08affaa6d788c94d35b78a6866e9c947aec94350049b3c96135459168f8"
+metafile = true
+
+[[files]]
+file = "mods/myotus-lib.pw.toml"
+hash = "99d2c0db4de0b9558307c2452b7c775db2c63a5a61c0487b5298fac254d2ecd7"
 metafile = true
 
 [[files]]
