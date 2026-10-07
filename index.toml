@@ -145,8 +145,9 @@ hash = "11faa2ff799f0d9468d50971d891f72d68cb4bd51f1243a3b4df01d7930a601f"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-53.jar"
-hash = "5363e5697a4a63599c80f6a40ae259ce6347e6a2590ed59307da5f0edded2d72"
+file = "mods/hex-casting.pw.toml"
+hash = "6007e0114cfdc645b36965cce9257dd9f40ff2f48f89f9f41fdf80e29475220c"
+metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
