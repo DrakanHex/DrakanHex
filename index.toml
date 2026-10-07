@@ -195,6 +195,11 @@ hash = "8cb7b4c61aaf6e888ca4507c8b1691e70f6e64bbd9e9d75f163a2facdaa7bc9f"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "8a69517eb999eacd8842d42fb2f9cdfda43fe11e70d72eabc54969b4d9e38f5a"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "f629b08affaa6d788c94d35b78a6866e9c947aec94350049b3c96135459168f8"
 metafile = true
@@ -288,3 +293,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/pack.mcmeta"
+hash = "8393a1a52da02b53c1bce806e3e78c4b3ae362054d4ccab2615f4cc598544ca3"
