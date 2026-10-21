@@ -150,6 +150,11 @@ hash = "167919d27a9a1b3d900f77f43d59f7674f56328cfec3074eb6544d03c0f154b6"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "ac589f8b9fda89ede50fc4628597dfe939a5ac7597225169e51e964329cf6a8a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b67a3ec3d530be0465d1164a9505fa4eff2c32b7a7a0665431181437e5fbaefb"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "8a69517eb999eacd8842d42fb2f9cdfda43fe11e70d72eabc54969b4d9e38f5a"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "f10833b802b7595e9e608a647aed43b63658a2d4bb96dd944d49b5a6b22c5b8c"
 metafile = true
 
 [[files]]
