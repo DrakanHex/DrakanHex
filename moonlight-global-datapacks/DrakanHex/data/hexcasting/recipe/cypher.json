@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": {
+      "tag": "gtceu:circuits/lv"
+    },
+    "b": {
+      "item": "gtceu:copper_ring"
+    },
+    "c": {
+      "item": "hexcasting:edified_button"
+    },
+    "d": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hexcasting:cypher"
+  }
+}

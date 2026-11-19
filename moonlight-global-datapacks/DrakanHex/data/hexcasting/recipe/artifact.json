@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "AoB",
+    "-O-",
+    "CoD"
+  ],
+  "key": {
+    "A": {
+      "item": "gtceu:fine_silver_wire"
+    },
+    "B": {
+      "tag": "c:tools/wire_cutter"
+    },
+    "C": {
+      "item": "hexcasting:edified_button"
+    },
+    "D": {
+      "tag": "gtceu:circuits/hv"
+    },
+    "o": {
+      "item": "gtceu:gold_ring"
+    },
+    "-": {
+      "item": "gtceu:amethyst_plate"
+    },
+    "O": {
+      "item": "gtceu:hv_field_generator"
+    }
+  },
+  "result": {
+    "id": "hexcasting:artifact",
+    "count": 1
+  }
+}

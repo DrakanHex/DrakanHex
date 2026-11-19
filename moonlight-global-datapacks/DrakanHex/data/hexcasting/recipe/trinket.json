@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aXb",
+    "X#X",
+    "cXd"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:tools/file"
+    },
+    "b": {
+      "tag": "gtceu:circuits/mv"
+    },
+    "c": {
+      "item": "hexcasting:edified_button"
+    },
+    "d": {
+      "tag": "c:tools/wire_cutter"
+    },
+    "X": {
+      "item": "gtceu:steel_rod"
+    },
+    "#": {
+      "item": "gtceu:exquisite_amethyst_gem"
+    }
+  },
+  "result": {
+    "id": "hexcasting:trinket",
+    "count": 1
+  }
+}

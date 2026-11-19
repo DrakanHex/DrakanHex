@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "42c23bb32a10efb7fd21452ec3cd23ebdbbfd57a01f81f322bb2af3205cc88d2"
+
+[[files]]
 file = "mods/ae2-tangible-bookmarks.pw.toml"
 hash = "312a50e77a5b02931d7f0e5dc0f250d4607ae7aaec981550bb049f0c8bc1a7e9"
 metafile = true
@@ -323,6 +327,22 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/artifact.json"
+hash = "e1bb8155eadebe7111423702df07e11b71fb229472e29f35a7cd612da5053c75"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/cypher.json"
+hash = "0c3affcf56a901b0817fb4f57de1ec0805363a66f615c678dfade38b9c4d867c"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/focus.json"
+hash = "28a49fdc96a45fa44b19c892be123e7322f045ad852ce306f1d3ca8b55a8be74"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/trinket.json"
+hash = "0eb5ff274d885a7bd23cbd546c459455425687834c0b1a81443b4b2205ae2ccb"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/pack.mcmeta"
