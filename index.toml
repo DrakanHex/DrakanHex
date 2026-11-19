@@ -25,6 +25,11 @@ hash = "7d5b1fc9e2c510da951294d57947d7e1cf4e7cf53f286215f5eed21e202a5a55"
 metafile = true
 
 [[files]]
+file = "mods/aures-dragon-survival.pw.toml"
+hash = "26efe415f944ee4c840f911db51572ba99b27c4124c8ff5d57b48a5baf0a7e2b"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "a14aa30b199bcc4fb3b382327be7cabb22ce03d8e780f68c3b8307136f0589d7"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "08b127f96589596a66a34301220c8f27dada12fa0ef730dbacd1bd1bbf7dae36"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
