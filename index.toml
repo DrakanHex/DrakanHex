@@ -36,6 +36,11 @@ hash = "a362c2aad18ae069804b1b599959adf199b96c803edbc8d13a878b3decaadd07"
 metafile = true
 
 [[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "0f7ef948192c41fd7f18336598849763a6c3320059378825546e889d8d619eb5"
 metafile = true
@@ -200,6 +205,11 @@ hash = "a35355ba3e721979f06f3ad8373af9ac92035522eb155fb5a52adaeb56c65a8f"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "be9f3f981dd69822b4a3e5ab6fd677ec69a4e01dcf66c62e239b6ef65f31f0fd"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8cb7b4c61aaf6e888ca4507c8b1691e70f6e64bbd9e9d75f163a2facdaa7bc9f"
 metafile = true
@@ -267,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/quick-skin.pw.toml"
 hash = "164c6305fc7ecdfae2542df1842ebe121f91268c04b6abc8540c10e377ee3ecb"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
