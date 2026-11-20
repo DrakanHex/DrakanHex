@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "oOo",
+    "O#O",
+    "=+="
+  ],
+  "key": {
+    "O": {
+      "tag": "c:plates/brass"
+    },
+    "o": {
+      "item": "gtceu:steel_screw"
+    },
+    "#": {
+      "item": "gtceu:computer_monitor_cover"
+    },
+    "=": [
+      {
+        "item": "gtceu:good_integrated_circuit"
+      },
+      {
+        "item": "gtceu:micro_processor"
+      }
+    ],
+    "+": {
+      "item": "gtceu:vacuum_tube"
+    }
+  },
+  "result": {
+    "id": "computercraft:computer_advanced",
+    "count": 1
+  }
+}

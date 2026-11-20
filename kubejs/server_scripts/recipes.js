@@ -1,14 +1,28 @@
 ServerEvents.recipes(event => {
     event.remove({ id: 'hexcasting:focus_rotated' })
+
     event.remove({ id: 'hexcasting:lens' })
     event.recipes.gtceu.alloy_smelter('lens')
         .itemInputs( '1x gtceu:amethyst_lens', '1x gtceu:glass_lens' )
         .itemOutputs( 'hexcasting:lens' )
         .duration(100)
         .EUt(30)
+
     event.recipes.gtceu.alloy_smelter('quenched_allay')
         .itemInputs( '1x minecraft:amethyst_shard', '1x gtceu:bismuth_ingot' )
         .itemOutputs( 'hexcasting:quenched_allay_shard' )
         .duration(200)
         .EUt(1920)
+
+    event.remove({ id: 'computercraft:computer_normal' })
+    event.remove({ id: 'computercraft:computer_advanced_upgrade' })
+    event.remove({ id: 'computercraft:computer_command' })
+    event.remove({ id: 'computercraft:pocket_computer_normal' })
+    event.remove({ id: 'computercraft:turtle_normal' })
+    event.remove({ id: 'computercraft:turtle_advanced_upgrade' })
+    event.remove({ id: 'computercraft:monitor_normal' })    
+    event.remove({ id: 'computercraft:turtle_normal_overlays/rainbow_flag' })
+    event.remove({ id: 'computercraft:turtle_normal_overlays/trans_flag' })
+    event.remove({ id: 'computercraft:turtle_advanced_overlays/rainbow_flag' })
+    event.remove({ id: 'computercraft:turtle_advanced_overlays/trans_flag' })
 }) 

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "6be690140ad4fe80adf7dc06db7f07198f7e8660b7fa50bac7d7a619a71ec305"
+hash = "02b8c765c6b2ad679375803e666885224a553b31a383473dd8254fe69f8c3d8d"
 
 [[files]]
 file = "mods/ae2-tangible-bookmarks.pw.toml"
@@ -341,6 +341,14 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/computercraft/recipe/computer_advanced.json"
+hash = "ba79396994bccabacd734e127b1c8a185465b47291340904e9a6b595165bd60c"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/computercraft/recipe/turtle_advanced.json"
+hash = "07c583a9957830fe502ec977bdd9e515d40e01fe0afb0965da88b13d06e3e174"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/artifact.json"

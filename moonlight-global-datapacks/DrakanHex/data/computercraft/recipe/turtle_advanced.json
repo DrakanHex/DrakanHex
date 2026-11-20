@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "sCS",
+    "=#=",
+    "c@w"
+  ],
+  "key": {
+    "#": {
+      "item": "computercraft:computer_advanced"
+    },
+    "=": {
+      "item": "gtceu:mv_robot_arm"
+    },
+    "C": {
+      "item": "gtceu:storage_cover"
+    },
+    "S": {
+      "item": "gtceu:lv_sensor"
+    },
+    "@": {
+      "item": "gtceu:mv_field_generator"
+    },
+    "c": {
+      "tag": "gtceu:circuits/lv"
+    },
+    "s": {
+      "tag": "c:tools/screwdriver"
+    },
+    "w": {
+      "tag": "gtceu:crafting_tools/wrench"
+    }
+  },
+  "result": {
+    "id": "computercraft:turtle_advanced",
+    "count": 1
+  }
+}
