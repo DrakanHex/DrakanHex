@@ -343,6 +343,10 @@ file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/artifact.jso
 hash = "e1bb8155eadebe7111423702df07e11b71fb229472e29f35a7cd612da5053c75"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/brainsweep/quench_allay.json"
+hash = "1f45103d31ec25cdb08d234a0ce6edfd2cf617794ea510f72e04db1cbbf471f4"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/cypher.json"
 hash = "0c3affcf56a901b0817fb4f57de1ec0805363a66f615c678dfade38b9c4d867c"
 
