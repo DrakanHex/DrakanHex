@@ -347,6 +347,10 @@ file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/artifact.jso
 hash = "e1bb8155eadebe7111423702df07e11b71fb229472e29f35a7cd612da5053c75"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/brainsweep/budding_amethyst.json"
+hash = "2ef2972bb310a2167dbf5885c05ca15c100a26713542f7e03296f087f512e762"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/brainsweep/quench_allay.json"
 hash = "9a0e7683c2c3f2e90582bd241f1fc72488746fab4d2d7b7c8e57042d87371729"
 

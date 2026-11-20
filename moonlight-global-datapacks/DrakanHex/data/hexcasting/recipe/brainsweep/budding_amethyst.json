@@ -1,0 +1,15 @@
+{
+  "type": "hexcasting:brainsweep",
+  "blockIn": {
+    "type": "hexcasting:block",
+    "block": "ae2:flawless_budding_quartz"
+  },
+  "cost": 5000,
+  "entityIn": {
+    "type": "drakanhex:item_type",
+    "item": "hexcasting:quenched_allay_shard"
+  },
+  "result": {
+    "Name": "minecraft:budding_amethyst"
+  }
+}
