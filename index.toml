@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "42c23bb32a10efb7fd21452ec3cd23ebdbbfd57a01f81f322bb2af3205cc88d2"
+hash = "6be690140ad4fe80adf7dc06db7f07198f7e8660b7fa50bac7d7a619a71ec305"
 
 [[files]]
 file = "mods/ae2-tangible-bookmarks.pw.toml"
