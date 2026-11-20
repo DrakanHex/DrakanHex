@@ -25,4 +25,10 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'computercraft:turtle_normal_overlays/trans_flag' })
     event.remove({ id: 'computercraft:turtle_advanced_overlays/rainbow_flag' })
     event.remove({ id: 'computercraft:turtle_advanced_overlays/trans_flag' })
+
+    event.recipes.gtceu.extractor('quenched_allay_extraction')
+        .itemInputs( '1x hexcasting:quenched_allay' )
+        .itemOutputs( '9x hexcasting:quenched_allay_shard' )
+        .duration(50)
+        .EUt(480)
 }) 
