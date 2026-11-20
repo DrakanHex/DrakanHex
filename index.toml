@@ -360,7 +360,7 @@ hash = "2ef2972bb310a2167dbf5885c05ca15c100a26713542f7e03296f087f512e762"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/brainsweep/quench_allay.json"
-hash = "9a0e7683c2c3f2e90582bd241f1fc72488746fab4d2d7b7c8e57042d87371729"
+hash = "7a026f1ae34f6a59606983ea60dc4a374806df37032646885e708b7e398df4f7"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/cypher.json"
