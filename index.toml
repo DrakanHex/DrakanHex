@@ -110,6 +110,10 @@ hash = "c4f0820614055c0be9800e3ec5474378bc595064c2c7439c17286f2b67e3631f"
 metafile = true
 
 [[files]]
+file = "mods/drakanhex-tweaks-1.0.0.jar"
+hash = "e108c5111621875fb50d9093957517c2bef97e84b1420510eca462b4d9e73658"
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "2de5690d7307b0a360e9ebed83ecb7f653d6643168360a625b253d131b3cdbf0"
 metafile = true
@@ -344,7 +348,7 @@ hash = "e1bb8155eadebe7111423702df07e11b71fb229472e29f35a7cd612da5053c75"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/brainsweep/quench_allay.json"
-hash = "1f45103d31ec25cdb08d234a0ce6edfd2cf617794ea510f72e04db1cbbf471f4"
+hash = "9a0e7683c2c3f2e90582bd241f1fc72488746fab4d2d7b7c8e57042d87371729"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/recipe/cypher.json"

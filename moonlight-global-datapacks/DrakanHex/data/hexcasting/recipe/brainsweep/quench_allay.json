@@ -4,10 +4,10 @@
     "type": "hexcasting:block",
     "block": "minecraft:amethyst_block"
   },
-  "cost": 550000,
+  "cost": 750000,
   "entityIn": {
-    "type": "hexcasting:entity_type",
-    "entityType": "minecraft:allay"
+    "type": "drakanhex:item_type",
+    "item": "hexcasting:quenched_allay_shard"
   },
   "result": {
     "Name": "hexcasting:quenched_allay"
