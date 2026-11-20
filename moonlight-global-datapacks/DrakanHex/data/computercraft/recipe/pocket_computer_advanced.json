@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "==",
+    "#c",
+    "c+"
+  ],
+  "key": {
+    "=": {
+      "item": "gtceu:double_brass_plate"
+    },
+    "#": {
+      "item": "gtceu:computer_monitor_cover"
+    },
+    "c": {
+      "item": "gtceu:micro_processor"
+    },
+    "+": {
+      "item": "gtceu:vacuum_tube"
+    }
+  },
+  "result": {
+    "id": "computercraft:pocket_computer_advanced",
+    "count": 1
+  }
+}

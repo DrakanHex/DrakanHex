@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "b808301996f131330737b891f21cde5eb303f58c83bd2d9e88f735c82bd041ef"
+hash = "646ba55b963a2cd0be9c4b789a3cf70af4def6c32b1c3cb9f39df88347b9839d"
 
 [[files]]
 file = "mods/ae2-tangible-bookmarks.pw.toml"
@@ -345,6 +345,10 @@ metafile = true
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/computercraft/recipe/computer_advanced.json"
 hash = "ba79396994bccabacd734e127b1c8a185465b47291340904e9a6b595165bd60c"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/computercraft/recipe/pocket_computer_advanced.json"
+hash = "fa039107cf4ff420ef4959f3f5740a85b8434164155a0c39021f259cc58b3423"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/computercraft/recipe/turtle_advanced.json"
