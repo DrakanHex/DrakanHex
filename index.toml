@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/drakanhex_tweaks-1.0.0.jar"
-hash = "3615ca301e92188e136c5215373a60dff3ffd674132dcb6a163dc8503d8fd20b"
+hash = "1e4a450c9a0d5c1503b13a3e627b941e8ff5e1c493867f8a4960fecf38170b52"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
