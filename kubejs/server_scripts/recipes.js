@@ -32,4 +32,13 @@ ServerEvents.recipes(event => {
         .itemOutputs( '9x hexcasting:quenched_allay_shard' )
         .duration(50)
         .EUt(480)
+
+    event.remove({ id: 'gtceu:shaped/steam_miner_bronze' })
+    event.remove({ id: 'gtceu:shaped/steam_miner_steel' })
+    event.remove({ id: 'gtceu:shaped/lv_miner' })
+    event.remove({ id: 'gtceu:shaped/mv_miner' })
+    event.remove({ id: 'gtceu:shaped/hv_miner' })
+    event.remove({ id: 'gtceu:assembler/ev_large_miner' })
+    event.remove({ id: 'gtceu:assembler/iv_large_miner' })
+    event.remove({ id: 'gtceu:assembler/luv_large_miner' })
 }) 
