@@ -40,6 +40,7 @@ login.live.com
 login.microsoftonline.com
 user.auth.xboxlive.com
 xsts.auth.xboxlive.com
+ci.blamejared.com
 ```
 ### После установки обхода необходимо иметь Prism Launcher.
 - Устанавливаем [Prism Launcher](<https://prismlauncher.org>) или его [пиратского аналога](<https://elyprismlauncher.github.io>).
